@@ -637,7 +637,6 @@ It should describe all of his abilites, also should be same for any other bosses
       - Item
       - Needs Replication
 
-
 ### Please, provide a clear description what the bug is:
 
 You can right click Battle Tabard on you and you get Entering Battleground debuf.
@@ -652,6 +651,23 @@ You can right click Battle Tabard on you and you get Entering Battleground debuf
 
 ### Expected behavior. Describe how it should work:
 Should not be clickable like Orgrimar Tarbard for example. And should not give any debufs.
+
+## Can teleport to battleground while in combat and under crowd control spells
+   - Original issue number: 6495
+   - Opened: 13:40 12/03/2024
+   - Status: Closed
+
+### Please, provide a clear description what the bug is:
+When battleground queue procs, you can enter battleground from in combat state. Not only that, you can enter it while being under crowd control spells from mobs or from players.
+
+### Steps to reproduce the behavior with as much detail as possible:
+- Queue AV as horde for quick procs
+- Start combat with any npc or player
+- Press enter battleground
+- Observe being teleported to battleground
+
+### Expected behavior. Describe how it should work:
+Queue proc should not accept players entering battleground untill they are out of combat. Because of current mechanics people abuse it world pvp situations, like teleporting out of combat/rogue cc from middle of enemy city to avoid being killed. Or do one-shot attacks in gadgedzan (and other neutral cities) and then immediately accepting battlegound proc for avoiding being punished by guards.
 
 
 
