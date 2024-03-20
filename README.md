@@ -704,4 +704,14 @@ When two players are in same group you can see stealthed player just fine. But i
 ### Expected behavior. Describe how it should work:
 While in same raid group on battlegrounds you should be able to see all stealthed friendly players no matter if they are in same party or not. Because of current implementation its hard for stealthed players to coordinate actions with each other, because only way they can see each other is on minimap. So in critical situations players may miscoordinate (for example going onto two different objectives, instead of one) or not approaching enemy at the same time. In other vmangos derived servers i saw that strategy implemented and it works great for improving teamplay.
 
+## Inconsistency between teleport to guild house and hearthstone
+   - Original issue number: 6498
+   - Opened: 13:59 12/03/2024
+   - Status: Closed
+
+### Please, provide a clear description what the bug is: 
+In current implementation teleport to guild house takes only 5 seconds, while hearthstone casts for 10 seconds. In current implementation teleport to guild house is not available while in combat, but hearhstone is available in combat, with cast prevention after getting damage. In current implementation teleport to guild house doesnt give visual queues of being casted, while hearthstone give visual casting animation.
+
+### Expected behavior. Describe how it should work: 
+I think they should both work the same way, with only difference being position on map where you are traveling to. In current implementation teleport to guild house can be abused by HC players, to escape danger faster, while HS users cant escape in 5 seconds, rendering people not in guilds more vulnerable.
 
