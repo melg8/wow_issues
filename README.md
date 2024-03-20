@@ -832,14 +832,18 @@ The can produce same sound as they do when you just mountup first time. Or some 
    - Original issue number: 6530
    - Opened: 23:55 14/03/2024
    - Status: Closed
+   - Tags:
+      - Website
 
 ### Describe the Issue:
 You display and user can select too many categories in issue tracker.
 
-### How to reproduce: 
-I did it.
+## No way to serach by category 
+   - Original issue number: 6531
+   - Opened: 23:58 14/03/2024
+   - Status: Closed
+   - Tags:
+      - Website
 
-### Character the bug occurred on:
-My character.
-
-
+### Describe the Issue: 
+There is no way to search issue by same category on site.
