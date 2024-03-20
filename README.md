@@ -953,3 +953,11 @@ If one of my issues was fixed, and i noticed that, there is no way to close my i
 
 As an example one of my issues that already should be closed: https://turtle-wow.org/bug-report?id=6465 (ignore the fact it was created on github and moved here and has different username, so i couldnt controll it anyway) but even for owned isssues this still holds.
 
+
+### Voting system gives you way to wote 3 times just by fast clicking up wote
+   - Original issue number: 6632
+   - Opened: 21:39 18/03/2024
+   - Status: Closed
+
+### Describe the Issue:
+Voting system gives you way to wote 3 times just by fast clicking up wote. Probably can be even further abused if you change source code on client side. Server seems not to check for amount of wotes from 1 person on the issue.
