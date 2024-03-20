@@ -1134,3 +1134,56 @@ Seems it was added some extra Z to character when he is mounting ont Alormion. I
 Hmm i double checked this, and found spot near his head on right side - which produces this bug. It can be related to terrain difference, if he spawns your mount on same Z as himself, and you stay slightly above that you will get under floor texture. while all of your body still above it. Maybe if we move him a little so he stands where all surrounding area is flat it can fix it once and for all.
 
 
+## War mode doesnt give bonus gold on daily quests
+   - Original issue number: 6570
+   - Opened: 12:43 16/03/2024
+   - Status: Open
+
+
+### How to reproduce:
+Get lvl 60 take quest from Mystic Guay'Jin - they have base reward 50 copper for one quest and 20 silver for other quest. When you finish this quests while having warmode on - you just get 50 copper and 20 silver. All other quests give more than their base value in description due to warmode buff.
+
+## Glasshide basilisks continues cast of stun even out of range
+   - Original issue number: 6571
+   - Opened: 12:43 16/03/2024
+   - Status: Open
+
+### Describe the Issue:
+Glasshide basilisks will continue casting their stun ability even if you run out of melee range. After that animation played but no effect is applied to player. So they just waste this ability. They should stop casting if player out of range of ability, or this ability should have larger range to stun when you at distance from mob.
+
+## AV SHB can be captured thorugh the floor
+   - Original issue number: 6573
+   - Opened: 13:11 16/03/2024
+   - Status: Open
+
+### Describe the Issue:
+You can jump up to the weapons rack in the middle stairs section move camera out a bit and click to the flag which is on floor above you. Flag will still be captured.
+Here is example for DB south bunker. https://youtu.be/0FxQobQltYY
+
+## Menethil gifts quest works in 10 man strat ud
+   - Original issue number: 6574
+   - Opened: 14:09 16/03/2024
+   - Status: Open
+
+### Describe the Issue:
+Menethil gifts quest works in 10 man strat ud as i heard all quest related stuff should be blocked when 10 manning this raid.
+
+## Couldn't reproduce shows as black on black in main bugtracker page #6577
+   - Original issue number: 6577
+   - Opened: 14:09 16/03/2024
+   - Status: Open
+
+
+###  Describe the Issue:
+Couldn't reproduce tag - is unreadable on main page of bug tracker, and also it changes color if you get into issue itself
+
+Example how it looks here: https://ibb.co/3hGttFG
+
+### Select box in bug tracker are not user friendly #6578
+   - Original issue number: 6578
+   - Opened: 17:25 16/03/2024
+   - Status: Open
+
+### Describe the Issue:
+When you use any select box in bug tracker (for example for server choose) - if you miss one pixel to the left of box itself - it just closes whole thing, and not put choice in. Also left part of select box are blending in with background making it hard to distinguish.
+
