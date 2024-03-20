@@ -985,3 +985,14 @@ You can make number of messages icon green if it has answers by team mebmer.
 
 ### Describe the Issue:
 If users cant close their issues on tracker, they shouldnt have delete also. From security perspective now regular user can just nuke all of its issues.
+
+
+## Add In progress ticker to issues
+   - Original issue number: 6640
+   - Opened: 23:30 18/03/2024
+   - Status: Closed
+
+### Describe the Issue:
+Its hard to determine when your issue is closed with words "will be fixed in future(next update/next patch/next week) etc" - if it was already fixed, or its too early to recheck how and if your issue was fixed. "In progress" ticker would be nice to have.
+Then issue lifetime is like -opened by someone -> marked by twow team with tickers -> in progress -> closed/done or rejected/not planned/duplicated.
+So you can see on what people work now, and you can know that closed issue was done and you can go on live server and check that it was indeed fixed for good.
