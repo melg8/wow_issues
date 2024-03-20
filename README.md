@@ -436,3 +436,27 @@ Zhevra Charger has at least 386 hp, so it wasnt dead just from 149 damage kick. 
 
 ### Expected behavior. Describe how it should work:
 Logs should be in logical order - first all logs about damage, then that i killed target, than that target dies.
+
+
+## Can join queue for arathi basin with lvl 1 character
+   - Original issue number: 6464
+   - Opened: 10:38 08/03/2024
+   - Status: Open
+   - Tags:
+      - Battlegrounds
+      - Bundled AddOn
+      - NPC
+      - 
+### Please, provide a clear description what the bug is: 
+When there is arathi basin weekend you can join queue for arathi basin as lvl 1 character after talking to League of Arathor Emissary.
+
+### Steps to reproduce the behavior with as much detail as possible:
+    - Talk to League of Arathor Emissary in capital sity with your lvl 1 character while its Arathi Basin weekend.
+    - Video example: *missing video*
+
+# IDs of affected creatures, items, quests or spells with a link to the relevant page:
+- NPC: League of Arathor Emissary
+
+### Expected behavior. Describe how it should work:
+Shouldn't be inconsistent. You shouldn't be able to join AB queue as lvl 1 that way. Or it should also be available in client Battleground Queues addon if joining AB as lvl 1 is intentional.
+
