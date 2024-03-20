@@ -326,4 +326,31 @@ Additional thought
 
 It would be great if devs can also check if Dyad of Twitching Elven Ears + stealth detection bonus stacks with all other + stealth detection bonuses, cause if it is not - it should be.
 
+### Looking for turtles embedded addon leaks memory 
+   - Original issue number: 6377
+   - Opened: 20:27 27/02/2024
+   - Status: Open
+   - Tags:
+      - Bundled AddOn
+
+### Please, provide a clear description what the bug is:
+LFT addon which is embedded into twow client leaks memory even when not actively used for party search.
+
+### Steps to reproduce the behavior with as much detail as possible:
+- Install pfDebug addon from shagu for memory consumption visualisation
+- Run twow original client with pfDebug addon enabled.
+- Right-Click on the Frame to open the Analyzer
+- Press Scan button on alanyzer
+- After Scan become active, close window with X on it.
+- Play some game without using LFT in any way. Just kill some mobs in location.
+- Try to play some more, but have at least 1 party member with you. (This was condition in which i observed this issue, but i don't know for sure if it is required condition to reproduce bug.
+- I suppose effect will be more present it large online numbers on server, cause more events will happen.
+- Open up Analyzer again and observe results like so:
+
+### Expected behavior
+Expected to have around zero leak value for such permanent addition to the game.
+
+### Why its important
+I play on old pc in which any lags are more noticible than more modern pcs. When any of addons leaks (uses in unreasonable way alot of memory) it makes garbage collector of game to run more frequently removing memory which were allocated by addon and actually already not used. Each garbage collection for me represents like 1-4 seconds freeze of game, which can be quite annoying in pve/raiding situation and brutaly horrifying in pvp situations. Especially its concerning cause this happens no matter what. And i dont have way to disable this addon, while i dont need this functionallity at all.
+
 
