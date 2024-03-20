@@ -374,3 +374,25 @@ Related to #5312
 ### Expected behavior. Describe how it should work:
 You should be able to close distance on them and pick them up.
 
+
+## Mageroyal spawn inside of home 
+   - Original issue number: 6410
+   - Opened: 19:02 02/03/2024
+   - Status: Open
+   - Tags:
+      - Object
+      - Profession
+   
+### Please, provide a clear description what the bug is:
+Mageroyal herb spawns inside of home. You can still barely see it through textures. Location: Hillsbrad Foothills 42.5 52.0.
+
+### Steps to reproduce the behavior with as much detail as possible:
+- Do the same thing as shown in video.
+- *missing video*
+
+### IDs of affected creatures, items, quests or spells with a link to the relevant page:
+- Object: mageroyal
+
+### Expected behavior. Describe how it should work:
+This spawn should be removed or transefered somewhere outside of building.
+
