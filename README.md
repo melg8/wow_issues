@@ -688,3 +688,20 @@ Afk status should remove frome battleground only if you are not in combat. When 
 
 In current situation players abuse such mechanics, for example they showup on AV, run for black lotus spawn, even if its on enemy side of map, and after they got it(or not) they simply /afk out of battleground, while under guards, enemy rogues stunlocks etc. Which is quite annoying for players who could get honorable kills but miss them just cause someone used /afk command. Also this mechanics sometiimes is abused by hardcore characters, which feel safe to join av and try to farm there, cause in case of any danger they can insta /afk away from bg while not being punished for that.
 
+## Stealthed players on same team can't see eachother in same raid group in stealth on battlegrounds
+   - Original issue number: 6497
+   - Opened: 13:52 12/03/2024
+   - Status: Closed
+
+### Please, provide a clear description what the bug is:
+When two players are in same group you can see stealthed player just fine. But if you are in same raid group, like on AV, but in different party groups - you can only see eachother on close range via stealth detection.
+
+### Steps to reproduce the behavior with as much detail as possible:
+- Join Alterac Valley battleground
+- Find some rogue or other stealther class in your team but in different group
+- Observe not being able to see him in distance while he is stealthed.
+
+### Expected behavior. Describe how it should work:
+While in same raid group on battlegrounds you should be able to see all stealthed friendly players no matter if they are in same party or not. Because of current implementation its hard for stealthed players to coordinate actions with each other, because only way they can see each other is on minimap. So in critical situations players may miscoordinate (for example going onto two different objectives, instead of one) or not approaching enemy at the same time. In other vmangos derived servers i saw that strategy implemented and it works great for improving teamplay.
+
+
