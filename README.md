@@ -414,4 +414,25 @@ For Zebra mount item on site it says its Soulbound, but ingame it says that it i
 Item: Zebra
 
 ## Expected behavior. Describe how it should work: 
-Site should also say "Binds when used" on this item cause it is somewhat hard to obtain item and knowledge about it being soulbound or not is actually can change g
+Site should also say "Binds when used" on this item cause it is somewhat hard to obtain item and knowledge about it being soulbound or not is actually can change g *missing text*
+
+
+## Possible race condition in combat logs from server 
+   - Original issue number: 6458
+   - Opened: 16:17 07/03/2024
+   - Status: Open
+
+### Please, provide a clear description what the bug is:
+I oberved log notification about damage dealed to target which is already dead judging by the logs. Maybe its related to Hand of Justice cause i got proc of it at start.
+
+### Steps to reproduce the behavior with as much detail as possible:
+- Stay face away from some low health enemy Zhevra but in melee range.
+- Make 4 buttons with same attack (like kick)
+- Spam them alot with 4 fingers
+- Wait for zebra to slowly go towards your facing direction
+- Observe log as such: *missing image*
+
+Zhevra Charger has at least 386 hp, so it wasnt dead just from 149 damage kick. ](https://database.turtle-wow.org/?spell=1769) Item: Hand of Justice NPC: Zhevra Charger
+
+### Expected behavior. Describe how it should work:
+Logs should be in logical order - first all logs about damage, then that i killed target, than that target dies.
