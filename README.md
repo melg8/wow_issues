@@ -847,3 +847,13 @@ You display and user can select too many categories in issue tracker.
 
 ### Describe the Issue: 
 There is no way to search issue by same category on site.
+
+## Title of bug report can be too long.
+   - Original issue number: 6532
+   - Opened: 23:59 14/03/2024
+   - Status: Closed
+   - Tags:
+      - Website
+   
+### Describe the Issue:
+Title doesnt have check for its length
