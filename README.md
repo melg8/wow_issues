@@ -963,3 +963,16 @@ As an example one of my issues that already should be closed: https://turtle-wow
 Voting system gives you way to wote 3 times just by fast clicking up wote. Probably can be even further abused if you change source code on client side. Server seems not to check for amount of wotes from 1 person on the issue.
 
 Also system doesnt check if you choose any particular character for his nick to be displayed. So you can wote just from newly created account.
+
+
+## Issue tracker doesnt provide way to determine if issue was answered by team member 
+   - Original issue number: 6635
+   - Opened: 22:06 18/03/2024
+   - Status: Closed
+
+## Describe the Issue:
+When your issue wasnt closed, but was answered by team member - like here happened to me: https://turtle-wow.org/bug-report?id=6600 there is no way to see if it was handled by one of staff members or not on issues list. Would be nice to have ticker for that, or even separate marker that this issue was in fact handled by team member in some way or another. Or that team member wrote something in it. Cause i have alot of issues where answers already exist, but its my own comments, or comments by others, and i am intrested in seeing if there was feedback from twow team.
+
+I saw "Turtle wow staff" on messages by torta, so thats good, but something like that need to be shown on the list of all issues as well. And maybe be sortable by that criteria.
+
+You can make number of messages icon green if it has answers by team mebmer.
