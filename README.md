@@ -1012,3 +1012,12 @@ Describe the Issue: How to reproduce: Character the bug occurred on:
 - Describe the Issue:
 - How to reproduce:
 - Character the bug occurred on:
+
+
+### Bug tracker looks badly formatted on mobile phones and tablets.
+   - Original issue number: 6659
+   - Opened: 21:00 19/03/2024
+   - Status: Closed
+
+### Describe the Issue:
+Bug tracker looks badly formatted on mobile phones and tablets. It shows some of text out of border of issue box and some of icons just float around.
