@@ -535,3 +535,35 @@ Some addons just refuse to work in instances, just to name a few:
 
 All of this addons are okay with having unknown ids of zones and can handle it, but they weren't ready that vanilla universe will be expanded to have at least 17 known continents. So when you load up in dungeon you just see constant ongoing spam of errors from addons, which is really annoying. Although i fixed them for myself, i think it would be better to have general fix on server side to not have this problem in the first place.
 
+
+## Jaedenar Adept zero distance blink + no delay
+   - Original issue number: 6487
+   - Opened: 16:33 11/03/2024
+   - Status: Closed
+   - Tags:
+      - Correct on VMaNGOS
+      - NPC
+      - Reproduced
+
+
+
+### Please, provide a clear description what the bug is:
+After being distracted when Jaedenar Adept uses blink ability they stay in same position after blink as they were before blink.
+
+### Steps to reproduce the behavior with as much detail as possible:
+- As rogue throw distract such that Jaedenar Adept is affected by it, but yet not aggroed by you.
+- Go close enough so Jaedenar Adept aggroes on you, start melee range attacks
+- Kick his first fireball which provokes blink
+- Or just wait for first spell to be casted, while still attacking Jaedenar Adept with melee attacks
+- Observe Jaedenar Adept blink to same place it was before.
+
+Video of such thing happening: *missing video*
+No Jaedenar Adept were harmed while filming that video.
+
+### IDs of affected creatures, items, quests or spells with a link to the relevant page:
+- NPC: Jaedenar Adept
+- Spell: Blink, Distract
+
+### Expected behavior. Describe how it should work:
+As per spell tooltip Jaedenar Adept should blink and appear in 20 yards from his initial position. Even after being distracted.
+
