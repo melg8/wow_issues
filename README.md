@@ -1246,3 +1246,35 @@ When on windows 10 you press windows key and game gets minimized window, sometim
 When you kill mob A with pet, and then start attack on mob B, sometimes you suddenly get attack value over mob A which long dead already.
 Video example: https://youtu.be/hCQP6XAZzqM
 Directly related to https://turtle-wow.org/bug-report?bugReportId=6458 But has different visual represenation so i wrote it as separate issue. If you watch closely logs you will observe display of pet damaging target after target death. This in turn will kick in visual damage representation kick in when new log messages appear - when you hit your next target. So main issue is 6458 and this is visual manifestation of that issue.
+
+
+## Dizzle fuelbopper has empty items list for sell
+   - Original issue number: 6600
+   - Opened: 21:58 17/03/2024
+   - Status: Open
+
+### Describe the Issue:
+Dizzle fuelbopper has empty items list for sell although in database it show as non empty: https://database.turtle-wow.org/?npc=80137
+Maybe related to me being non goblin race. But not intuitive.
+
+## You get out of vanish if your ranged weapon hit after you vanished
+   - Original issue number: 6601
+   - Opened: 22:06 17/03/2024
+   - Status: Open
+
+### Describe the Issue:
+If you shoot ranged weapon and then vanish asap you will enter vanish, but will get out of it when arrow hits enemy.
+Video example: https://youtu.be/1n-TsgIWhkY
+While for pve maybe this is not that much of importance, but in pvp for rogue which is defending some gy on AV it can be quite annoying cause if you hit capper with ranged weapon and insta vanish - you get out of it and hit by npcs. Other way around you forced to stay out of stealth while your arrow in flight - and get all hits from all npcs around you.
+
+### How it should work:
+You shout, you vanish, you hit target, you stay in vanish.
+
+## Raptor Punch only shows debuff "you drunk" #6602
+   - Original issue number: 6602
+   - Opened: 22:20 17/03/2024
+   - Status: Open
+
+### Describe the Issue:
+Raptor Punch doesnt show buff part in buff, and only shows text "you drunk" in debuf part, not showing - stamina debuff effect.
+https://database.turtle-wow.org/?item=5342
