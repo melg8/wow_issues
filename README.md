@@ -296,3 +296,34 @@ Character is still mounted if returned from Alterac Valley (or any other bg) whi
 
 ### Steps to reproduce the behavior with as much detail as possible:
 As in video: https://www.youtube.com/watch?v=O7Wz45O79JE
+
+### Triskelion of Roving Elements speed bonus doesnt stack with boots minor speed increase bonus 
+   - Original issue number: 6376
+   - Opened: 19:36 27/02/2024
+   - Status: Closed
+
+### Please, provide a clear description what the bug is:
+Triskelion of Roving Elements speed bonus doesnt stack with boots minor speed increase bonus.
+
+### Steps to reproduce the behavior with as much detail as possible:
+- Download and install MonkeySpeed for speed measurement
+- Start running at normal speed (no speed modifiers)
+- Enter the command /mscalibrate to calibrate the speed.
+- Observe addon showing 100 as we run forward (thanks to Zorg for providing test results!)
+- Put on Triskelion of Roving Elements into trinket slot. Start running forward, observe speed still equal to 108. *missing screenshot*
+- If you remove speed boots, you still get 108 speed value.
+
+Quest: An Honorary Gelkis 
+Spell: Enchant Boots - Minor Speed
+
+### How it should work
+When both boots and trinket are put on you should get sum of their bonuses, so 116 value.
+
+### Motivation for that change
+*missing text*
+for example. So even with stacked bonus player will have running speed increased less then Zanza provides. 8. This quest item is available for both factions in any given moment, so it doesn't discriminate agains any group of players. 9. Literaly in description of item it says that it does "Minor increase to running and swimming speed" which player with boots enchant just doesnt observe at all. Imagine dissapointment of player who farmed so much reputation, did all quests, choose this trinket and saw its basically not working.
+Additional thought
+
+It would be great if devs can also check if Dyad of Twitching Elven Ears + stealth detection bonus stacks with all other + stealth detection bonuses, cause if it is not - it should be.
+
+
