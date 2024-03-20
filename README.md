@@ -254,3 +254,33 @@ Wall jump 1
 
 Safe fall to hut 1
 Safe fall to hut 2
+
+## Alterac Valley afk abuse
+   - Original issue number: 6363
+   - Opened: 23:44 25/02/2024
+   - Status: Open
+   - Tags:
+      - Battlegrounds
+    
+### Please, provide a clear description what the bug is:
+- Inactive debuf dissapears when player dies
+- Inactive debuf don't get applied to players in ghost form (dead).
+
+### Steps to reproduce the behavior with as much detail as possible:
+- Go to AV. Stay for 10 minutes in pseudo afk.
+- Get Inactive debuf
+- Die from any cause, observe debuf is gone.
+
+### This opens abuse for player who wants to afk farm:
+- join av
+- die in any way
+- run from gy as ghost to any safe spot where he will not bring attention to himself
+- stay in pseudo afk while your fellows farming honor for you.
+
+### Expected behavior. Describe how it should work:
+- This debuf should persist while player is dead
+- This debuf should be granted to players in ghost form(dead) also.
+- This debuf should update value (1,2,3) of ticks while player in ghost form(dead).
+
+
+
