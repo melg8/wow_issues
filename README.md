@@ -459,3 +459,23 @@ When there is arathi basin weekend you can join queue for arathi basin as lvl 1 
 ### Expected behavior. Describe how it should work:
 Shouldn't be inconsistent. You shouldn't be able to join AB queue as lvl 1 that way. Or it should also be available in client Battleground Queues addon if joining AB as lvl 1 is intentional.
 
+## Hardcore scoreboard is empty on site 
+   - Original issue number: 6465
+   - Opened: 11:50 08/03/2024
+   - Status: Closed
+
+### Please, provide a clear description what the bug is:
+On site https://armory.turtle-wow.org/hardcore/ Hardcore scoreboard just shows twow logo, and info about hardcore challenge but not participants names.
+
+### Steps to reproduce the behavior with as much detail as possible:
+- Go to https://armory.turtle-wow.org/hardcore/
+- Observe *missing screenshot*
+- Or like this in firefox: *missing screenshot*
+
+This was tested on:
+- firefox
+- brave
+- google chrome
+- microsoft edge
+- tor browser to excl
+
