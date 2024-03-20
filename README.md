@@ -805,3 +805,25 @@ Some of Riding animals near Gadgetzan doesnt provide option to ride them for 50 
 
 ### Expected behavior. Describe how it should work: 
 Should be able to click on each of them and ride them for 50 copper.
+
+## Some mounts doesnt have sound for spacebar press while standing still
+   - Original issue number: 6507
+   - Opened: 0:51 13/03/2024
+   - Status: Closed
+
+
+### Please, provide a clear description what the bug is:
+For example Riding Zhevra doesnt produce any sound when you press space bar while standing still.
+
+### Steps to reproduce the behavior with as much detail as possible:
+- Mount Zhevra, or Immortal's Champion Drake for example
+- Stay still
+- Press space bar
+- Observe animation playing while no sounds made by mount.
+
+### IDs of affected creatures, items, quests or spells with a link to the relevant page:
+    - Immortal Champion's Drake
+
+### Expected behavior. Describe how it should work:
+The can produce same sound as they do when you just mountup first time. Or some castom sound can be used, like zhevra can use sounds from horses.
+
