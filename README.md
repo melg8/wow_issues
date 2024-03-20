@@ -924,3 +924,10 @@ To much of it drops, if you dont use special addon to auto need it, its whole se
 ### Describe the Issue:
 Young goretusk near graveyard on Sentinel Hill 51.8 49.0 has hyperspawn. He spawns right after it was killed (in 10-15 seconds). Can be abused and farmed afk by clicker.
 
+## Account management page doesnt show characters
+   - Original issue number: 6589
+   - Opened: 13:28 17/03/2024
+   - Status: Closed
+
+### Describe the Issue:
+Account management page doesnt show characters, just shows blank space.
