@@ -451,8 +451,8 @@ Logs should be in logical order - first all logs about damage, then that i kille
 When there is arathi basin weekend you can join queue for arathi basin as lvl 1 character after talking to League of Arathor Emissary.
 
 ### Steps to reproduce the behavior with as much detail as possible:
-    - Talk to League of Arathor Emissary in capital sity with your lvl 1 character while its Arathi Basin weekend.
-    - Video example: *missing video*
+- Talk to League of Arathor Emissary in capital sity with your lvl 1 character while its Arathi Basin weekend.
+- Video example: *missing video*
 
 # IDs of affected creatures, items, quests or spells with a link to the relevant page:
 - NPC: League of Arathor Emissary
