@@ -607,4 +607,26 @@ When fighting Antnormi his stun goest through even if you have free action potio
 ### Expected behavior. Describe how it should work:
 It shouldn't stun you if you used free action potion. It doesn't have any interesting animations like npc from The Deadmines which swaps weapons on certain health, and you need to be stunned in order for him to finish animation. Here its just stun which says its stun, and not sleep or something else, but which ignores main anti-stun potion in game.
 
+### Antnormi description on site lacks abilities page
+   - Original issue number: 6491
+   - Opened: 22:34 11/03/2024
+   - Status: Open
+   - Tags:
+      - Website
+
+### Please, provide a clear description what the bug is:
+Seems that Antnormi lacks page about his abilities, for example that he has stun ability Cowering Roar.
+
+### Steps to reproduce the behavior with as much detail as possible:
+- Go to url https://database.turtle-wow.org/?npc=65125
+- Scroll down
+- See lack of spells description on page.
+- 
+### IDs of affected creatures, items, quests or spells with a link to the relevant page:
+- NPC: Antnormi
+- Spell: Cowering Roar
+
+### Expected behavior. Describe how it should work:
+It should describe all of his abilites, also should be same for any other bosses in that instance.
+
 
