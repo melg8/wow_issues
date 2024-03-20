@@ -887,3 +887,14 @@ You can still perform backdoor jump on av
 ### How to reproduce:
 https://youtu.be/L0KciGFEVN8
 
+## You can be afk on av all day using dig rat
+   - Original issue number: 6557
+   - Opened: 23:09 15/03/2024
+   - Status: Closed
+
+### Describe the Issue:
+You can avoid being kicked by auto system from av using dig rat.
+
+### How to reproduce:
+Deploy dig rat somewhere on av. Use non damginc ability on it to begin combat. Observe removal of debuff from character. Also combat doesnt brake so you can just stand in combat with dig rat there for hours.
+
