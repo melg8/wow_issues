@@ -874,3 +874,16 @@ It says can't mount here when you try to mount on Immortal Champion's Drake in c
 
 ### Describe the Issue:
 You removed it from submit report but it still available after creation.
+
+
+## You can still perform backdoor jump on av 
+   - Original issue number: 6556
+   - Opened: 23:06 15/03/2024
+   - Status: Closed
+
+### Describe the Issue:
+You can still perform backdoor jump on av
+
+### How to reproduce:
+https://youtu.be/L0KciGFEVN8
+
