@@ -785,3 +785,23 @@ Please fix it asap, its like a warcrime agains humanity, kek.
 ### Expected behavior. Describe how it should work:
 Should just roam left and right on ground normally, and not preve *missing text*
 
+
+## Some of riding animals doesn't provide gossip for riding for 50 copper near gadgedzan 
+   - Original issue number: 6506
+   - Opened: 00:43 13/03/2024
+   - Status: Closed
+
+### Please, provide a clear description what the bug is:
+Some of Riding animals near Gadgetzan doesnt provide option to ride them for 50 copper.
+
+### Steps to reproduce the behavior with as much detail as possible:
+- Do as in video: *missing video*
+
+### IDs of affected creatures, items, quests or spells with a link to the relevant page:
+- NPC:
+    - Riding Horse
+    - Riding Tiger
+    - Riding Raptor
+
+### Expected behavior. Describe how it should work: 
+Should be able to click on each of them and ride them for 50 copper.
