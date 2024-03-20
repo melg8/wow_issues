@@ -283,4 +283,16 @@ Safe fall to hut 2
 - This debuf should update value (1,2,3) of ticks while player in ghost form(dead).
 
 
+## Alterac Vallue doesnt respect mount rules
+   - Original issue number: 6364
+   - Opened: 00:29 26/02/2024
+   - Status: Open
+   - Tags:
+      - Battlegrounds
+      - Needs Replication
 
+### Please, provide a clear description what the bug is: 
+Character is still mounted if returned from Alterac Valley (or any other bg) while being mounted on that bg. This gives opportunity to be mounted in locations where mounting is forbidden. Like so:
+
+### Steps to reproduce the behavior with as much detail as possible:
+As in video: https://www.youtube.com/watch?v=O7Wz45O79JE
