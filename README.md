@@ -1395,3 +1395,55 @@ No way to remove filter by category other than reloading of page
 
 ### Describe the Issue:
 New description editor has white/day colorscheme, while all bugtracker has night colorscheme. So when you open it up you get bright white part on your screen. All should be in same color scheme.
+
+## New description editor opens emoji tab too slow
+   - Original issue number: 6651
+   - Opened: 19:41 19/03/2024
+   - Status: Open
+
+### Describe the Issue:
+New description editor opens emoji tab too slow. When you press on emoji - it takes solid 3-4 seconds to load page with emojis. Bad user experience.
+
+## In moved issues "twowTurtReynolds" answers are not marked as twow team member answers.
+   - Original issue number: 6652
+   - Opened: 19:44 19/03/2024
+   - Status: Open
+
+### Describe the Issue:
+In moved from github issues "twowTurtReynolds" answers are not marked as twow team member answers. But they should be.
+Example: https://turtle-wow.org/bug-report?id=6501
+
+## Inconsistent description of glyph of war effects on site and ingame with real effects
+   - Original issue number: 6653
+   - Opened: 20:01 19/03/2024
+   - Status: Open
+
+### Describe the Issue:
+On site https://turtle-wow.org/player-versus-player-content#war-mode
+it says: "A new Glyph that permanently flags you for PvP in return for certain benefits: +30% for all experience gains."
+This glyph will flag you for PvP combat permanently! Players can opt-out War Mode challenge once at the glyph master in starting zone or additionaly at level 60. 
+While in game: "I says +20% for both exp and honor from all sources": https://ibb.co/YkPFgZr
+And in database it doesnt mention any of pvp part and values. https://database.turtle-wow.org/?item=80060
+
+Related to issue: https://turtle-wow.org/bug-report?id=6631
+
+## Cant upload regular 1920x1080 size png screenshot from game as image to bug tracker. #6654
+   - Original issue number: 6653
+   - Opened: 20:03 19/03/2024
+   - Status: Open
+
+### Describe the Issue:
+Cant upload regular 1920x1080 size png screenshot from game as image to bug tracker.
+It gives me error "The images.0 failed to upload."
+
+## Cenneron cave has bad geodata teleporting you higher and higher untill you die from falling
+   - Original issue number: 6655
+   - Opened: 20:03 19/03/2024
+   - Status: Open
+
+### Describe the Issue:
+Cenneron cave has bad geodata teleporting you higher and higher untill you die from falling
+Video of that happening: https://youtu.be/u0rwNu5ZoJU
+Npc: https://database.turtle-wow.org/?npc=61586
+Related to https://turtle-wow.org/bug-report?id=6644
+
