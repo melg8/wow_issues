@@ -939,3 +939,17 @@ Account management page doesnt show characters, just shows blank space.
 
 ### Describe the Issue:
 When gm appears for personal intervention into some issue. Main and only way to visually define him/her as gm is their lvl higher than 60. Gm ticker will be usually eaten by addons representation. But in terms of their appearance they just appear as goblin/tauren etc in normal cloths. So people around them may not notce that this is not regular person but gm. I think gms should have some cusom form (like illusion, or at least custom cloths, or custom size of model, that will always tell anyone around them that this is gm at his work, and you should not mess around with it).
+
+
+## No way to close your own issues. 
+   - Original issue number: 6626
+   - Opened: 14:03 17/03/2024
+   - Status: Closed
+   - Tags:
+      - Website
+
+### Describe the Issue:
+If one of my issues was fixed, and i noticed that, there is no way to close my issue. I can only delete it.
+
+As an example one of my issues that already should be closed: https://turtle-wow.org/bug-report?id=6465 (ignore the fact it was created on github and moved here and has different username, so i couldnt controll it anyway) but even for owned isssues this still holds.
+
