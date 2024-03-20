@@ -1,4 +1,4 @@
-# wow_issues
+# Wow issues reported by me
 
 ## Wsg doesnt register flag carry
    - Original issue number: 1591
@@ -17,3 +17,17 @@ On my horde rogue character Melgo (not hardcore mode character, but with War Mod
 
 ### Expected behavior. Describe how it should work: 
 Should score as flag capture and get additional honor.
+
+
+## Av still has backdoor jump on alliance base
+   - Original issue number: 4114
+   - Opened: 14:12 08/08/2023
+
+### Please, provide a clear description what the bug is:
+Today were introduced fix for av backdoor jumping to make game fair. Main issue on topic was closed: #4082.
+On horde side now backdoor jump is not accesible. But on alliance side there is still way to work around invisible wall that were introduced. Please fix it to make map more balanced.
+Steps to reproduce the behavior with as much detail as possible: Here is example of druid using backdoor jump on new version of map today.
+After that he was trying to cap gy, so he didnt encounter any problems from last screen till gy. I observed druid
+
+
+
