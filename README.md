@@ -621,12 +621,37 @@ Seems that Antnormi lacks page about his abilities, for example that he has stun
 - Go to url https://database.turtle-wow.org/?npc=65125
 - Scroll down
 - See lack of spells description on page.
-- 
+
 ### IDs of affected creatures, items, quests or spells with a link to the relevant page:
 - NPC: Antnormi
 - Spell: Cowering Roar
 
 ### Expected behavior. Describe how it should work:
 It should describe all of his abilites, also should be same for any other bosses in that instance.
+
+### Battle Tabards give weird Entering Battleground debuf
+   - Original issue number: 6494
+   - Opened: 13:34 12/03/2024
+   - Status: Open
+   - Tags:
+      - Item
+      - Needs Replication
+
+
+### Please, provide a clear description what the bug is:
+
+You can right click Battle Tabard on you and you get Entering Battleground debuf.
+
+### Steps to reproduce the behavior with as much detail as possible:
+- Wear Warsong Battle Tabard
+- Right click it
+- Observe debuf on you
+
+### IDs of affected creatures, items, quests or spells with a link to the relevant page:
+- Spell: Entering Battleground
+
+### Expected behavior. Describe how it should work:
+Should not be clickable like Orgrimar Tarbard for example. And should not give any debufs.
+
 
 
