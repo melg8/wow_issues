@@ -396,3 +396,22 @@ Mageroyal herb spawns inside of home. You can still barely see it through textur
 ### Expected behavior. Describe how it should work:
 This spawn should be removed or transefered somewhere outside of building.
 
+
+
+## Wrong "Soulbound" status of Zebra mount item on site 
+   - Original issue number: 6448
+   - Opened: 21:49 06/03/2024
+   - Status: Open
+
+### Please, provide a clear description what the bug is:
+For Zebra mount item on site it says its Soulbound, but ingame it says that it is "Binds when used" which is also confirmed by gm.
+
+### Steps to reproduce the behavior with as much detail as possible:
+- Look at description of item on site: *missing image*
+- Compare it with description of item ingame: *missing image*
+
+# IDs of affected creatures, items, quests or spells with a link to the relevant page:
+Item: Zebra
+
+## Expected behavior. Describe how it should work: 
+Site should also say "Binds when used" on this item cause it is somewhat hard to obtain item and knowledge about it being soulbound or not is actually can change g
