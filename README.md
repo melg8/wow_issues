@@ -19,34 +19,6 @@ On my horde rogue character Melgo (not hardcore mode character, but with War Mod
 ### Expected behavior. Describe how it should work: 
 Should score as flag capture and get additional honor.
 
-
-## Av still has backdoor jump on alliance base
-   - Original issue number: 4114
-   - Opened: 14:12 08/08/2023
-   - Status: Closed
-
-### Please, provide a clear description what the bug is:
-Today were introduced fix for av backdoor jumping to make game fair. Main issue on topic was closed: #4082.
-On horde side now backdoor jump is not accesible. But on alliance side there is still way to work around invisible wall that were introduced. Please fix it to make map more balanced.
-Steps to reproduce the behavior with as much detail as possible: Here is example of druid using backdoor jump on new version of map today.
-After that he was trying to cap gy, so he didnt encounter any problems from last screen till gy. I observed druid
-
-## Winterfall runners stack up in sneaky way as single mob
-   - Original issue number: 4126
-   - Opened: 08:11 11/08/2023
-   - Status: Closed
-
-### Please, provide a clear description what the bug is:
-Winterfall runners that roam across winterspring can stack up in the way, that player see them as single mob, while in reality there is three of them roaming in sync. This can be problematic for hardcore character, that will try to aggro single mob, and get 2 as gift.
-
-### Steps to reproduce the behavior with as much detail as possible:
-- Go to 63.4, 26.5 in winterspring
-- Wait for roamers
-- Observe something like this:
-
-Their models and animations sync up, so only way to saw 3 of them is by using nameplates.
-
-
 ## Flare doesnt work on Jaguero Stalker
    - Original issue number: 4035
    - Opened: 04:27 27/07/2023
@@ -72,6 +44,53 @@ Jaguero Stalker ignores Flare spell. Probably there are other npcs which have sa
 
 ### Expected behavior. Describe how it should work:
 Npc should drop "faded" and become visible while affected by Flare.
+
+## Pets prowl ignores Faerie Fire from mobs
+   - Original issue number: 4089
+   - Opened: 10:04 05/08/2023
+   - Status: Closed
+   - Tags:
+      - Couldn't reproduce
+
+### Please, provide a clear description what the bug is:
+When Winterfall Pathfinder applies Faerie Fire spell to hunter's pet, hunter still can use prowl and pet will be in stealth while under debuf.
+
+# Steps to reproduce the behavior with as much detail as possible:
+- Attack Winterfall Pathfinder with hunter's pet which know prowl
+- Wait for Winterfall Pathfinder to apply Faerie Fire to pet.
+- Kill Winterfall Pathfinder, wait for pet to get out of combat.
+- Use prowl skill
+- Observe pet in prowl state while with Faerie Fire debuf is still on it.
+
+### IDs of affected creatures, items, quests or spells with a link to the relevant page:
+   - NPC: Winterfall Pathfinder
+   - Skill: Prowl
+
+## Winterfall runners stack up in sneaky way as single mob
+   - Original issue number: 4126
+   - Opened: 08:11 11/08/2023
+   - Status: Closed
+
+### Please, provide a clear description what the bug is:
+Winterfall runners that roam across winterspring can stack up in the way, that player see them as single mob, while in reality there is three of them roaming in sync. This can be problematic for hardcore character, that will try to aggro single mob, and get 2 as gift.
+
+### Steps to reproduce the behavior with as much detail as possible:
+- Go to 63.4, 26.5 in winterspring
+- Wait for roamers
+- Observe something like this:
+
+Their models and animations sync up, so only way to saw 3 of them is by using nameplates.
+
+## Av still has backdoor jump on alliance base
+   - Original issue number: 4114
+   - Opened: 14:12 08/08/2023
+   - Status: Closed
+
+### Please, provide a clear description what the bug is:
+Today were introduced fix for av backdoor jumping to make game fair. Main issue on topic was closed: #4082.
+On horde side now backdoor jump is not accesible. But on alliance side there is still way to work around invisible wall that were introduced. Please fix it to make map more balanced.
+Steps to reproduce the behavior with as much detail as possible: Here is example of druid using backdoor jump on new version of map today.
+After that he was trying to cap gy, so he didnt encounter any problems from last screen till gy. I observed druid
 
 ## "No pockets to pick" on mob with pickpocket table with quest item.
    - Original issue number: 6277
@@ -134,4 +153,6 @@ When player with charge ability tries to charge someone while being present on e
 
 ### Expected behavior. Describe how it should work:
 You should charge players on top of tunnel - so if player is outside - he gets charged outside, and not placed inside of tunnel.
+
+
 
