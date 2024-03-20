@@ -905,3 +905,12 @@ Deploy dig rat somewhere on av. Use non damginc ability on it to begin combat. O
 
 ### Describe the Issue:
 You cant mount there but with such massive area without anything in it its annoying to walk around when you need to go outside or to move from instance exit to instance entrance. I don't belive that suggestions on forum work so i post it here.
+
+## Corrupted sand is annoying 
+   - Original issue number: 6567
+   - Opened: 11:22 16/03/2024
+   - Status: Closed
+
+### Describe the Issue:
+To much of it drops, if you dont use special addon to auto need it, its whole separate work to need all the sand, while progressing this linear instance to the end.
+
