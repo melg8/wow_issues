@@ -115,3 +115,23 @@ For item Lynxstep Boots on site there is no additional stats bonuses displayed. 
 ### IDs of affected creatures, items, quests or spells with a link to the relevant page:
 Item: Lynxstep Boots
 
+
+## Warsong horde ramp charge bug
+   - Original issue number: 6324
+   - Opened: 21:27 21/02/2024
+   - Status: Open
+   - Tags:
+      - Battlegrounds
+      - MMAP
+
+### Please, provide a clear description what the bug is:
+When player with charge ability tries to charge someone while being present on exit from room into ramp. And his target is above Z axis on top of tunnel he charges into tunnel instead (with great speed). This was noticed on horde base, but probably may occure on alliance side as well. Wery nasty bug for pvp situations, also may be abusable.
+
+### Steps to reproduce the behavior with as much detail as possible:
+- Go outisde of top entrance of horde base into ramp part as horde druid in bear form.
+- Charge alliance target approaching from alliance side (so outside into horde base).
+- Observe you get charged into tunnel ( first into lower entrance to base, then to flag room, than to tunnel).
+
+### Expected behavior. Describe how it should work:
+You should charge players on top of tunnel - so if player is outside - he gets charged outside, and not placed inside of tunnel.
+
