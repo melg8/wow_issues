@@ -1372,4 +1372,26 @@ For visually impared people Its hard to distinguish between opened and closed is
 Can use different icon for closed issues, like so https://thenounproject.com/browse/icons/term/issue-closed/ , and maybe more contrast and different color.
 Another variant would be https://thenounproject.com/browse/icons/term/arrow-caret-down/?qv=3933647 same circular form but with different inner part.
 
+## Categories filter doesnt show choosen category for filtering.
+   - Original issue number: 6647
+   - Opened: 19:28 19/03/2024
+   - Status: Open
+   
+### Describe the Issue:
+When you choose filter by category it doesnt show that now you are filtering by something. It should display category by which you are filtering issues.
 
+## No way to remove filter by category other than reloading of page
+   - Original issue number: 6648
+   - Opened: 19:36 19/03/2024
+   - Status: Open
+
+### Describe the Issue:
+No way to remove filter by category other than reloading of page 
+
+## New description editor has white/day colorscheme, while all bugtracker has night colorscheme
+   - Original issue number: 6650
+   - Opened: 19:41 19/03/2024
+   - Status: Open
+
+### Describe the Issue:
+New description editor has white/day colorscheme, while all bugtracker has night colorscheme. So when you open it up you get bright white part on your screen. All should be in same color scheme.
