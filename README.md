@@ -811,7 +811,6 @@ Should be able to click on each of them and ride them for 50 copper.
    - Opened: 0:51 13/03/2024
    - Status: Closed
 
-
 ### Please, provide a clear description what the bug is:
 For example Riding Zhevra doesnt produce any sound when you press space bar while standing still.
 
@@ -822,8 +821,25 @@ For example Riding Zhevra doesnt produce any sound when you press space bar whil
 - Observe animation playing while no sounds made by mount.
 
 ### IDs of affected creatures, items, quests or spells with a link to the relevant page:
-    - Immortal Champion's Drake
+- Immortal Champion's Drake
 
 ### Expected behavior. Describe how it should work:
 The can produce same sound as they do when you just mountup first time. Or some castom sound can be used, like zhevra can use sounds from horses.
+
+# Issues created inside of new bug tracker system.
+
+### You can select too many categories on issue tracker
+   - Original issue number: 6530
+   - Opened: 23:55 14/03/2024
+   - Status: Closed
+
+### Describe the Issue:
+You display and user can select too many categories in issue tracker.
+
+### How to reproduce: 
+I did it.
+
+### Character the bug occurred on:
+My character.
+
 
