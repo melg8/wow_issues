@@ -1447,3 +1447,50 @@ Video of that happening: https://youtu.be/u0rwNu5ZoJU
 Npc: https://database.turtle-wow.org/?npc=61586
 Related to https://turtle-wow.org/bug-report?id=6644
 
+## Report system doesn't have way to mention other issues, and see if issue was mentioned elsewhere #6656
+   - Original issue number: 6656
+   - Opened: 20:36 19/03/2024
+   - Status: Open
+
+### Describe the Issue:
+Report system doesnt have way to mention other issues, and see if issue was mentioned elsewhere
+You can only mention as direct link to the issue, like so: https://turtle-wow.org/bug-report?id=6656, but no way of #6656, and in mentioned issue there is no list of other issues that mentiones this issue.
+
+## Bug tracker doesn't have way to ping twow team members
+   - Original issue number: 6657
+   - Opened: 20:39 19/03/2024
+   - Status: Open
+
+### Describe the Issue:
+Bug tracker doesnt have way to ping twow team members or any way to see when after twow team member did reply to issue, but didnt fixed/closed issue, if it is still pending some clarification from user, and if user answered something after twow team member wrote something.
+For example: issue https://turtle-wow.org/bug-report?id=6631
+was anwered but not solved, but after that i found additional info that should clarify that issue actually exists.
+
+## Search bar on bug tracker doesnt have characters limit
+   - Original issue number: 6658
+   - Opened: 20:52 19/03/2024
+   - Status: Open
+
+### Describe the Issue:
+Search bar on bug tracker doesnt have characters limit. May be used for DDOS?
+
+## Bug tracker has no filter for this °͌͌͌͌͌͌͌͌͌͌͌͌͌͌͌͌͌͌͌͌͌͌͌͌͌ types of characters. #6660
+   - Original issue number: 6660
+   - Opened: 21:02 19/03/2024
+   - Status: Open
+
+### Describe the Issue:
+Bug tracker has no filter for this °͌͌͌͌͌͌͌͌͌͌͌͌͌͌͌͌͌͌͌͌͌͌͌͌͌ types of characters..
+
+## Blackrock Outrunners has enrage and flee at same time which is not very logical
+   - Original issue number: 6661
+   - Opened: 21:09 19/03/2024
+   - Status: Open
+
+### Describe the Issue:
+Blackrock Outrunners has enrage and flee at same time which is not very logical, so they enrage at you... and run away enraged. I think should be one of two things, not both. 
+NPC: https://database.turtle-wow.org/?npc=485#abilities
+
+
+
+
