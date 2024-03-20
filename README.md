@@ -756,3 +756,32 @@ When mousover Supercharged Chronoboon Displacer you can't see buffs and their du
 
 ### Expected behavior. Describe how it should work:
 It should show captured buffs with timers like it was presented on site: *missing screenshot*
+
+
+## Alromion gives you hard epilepsy check instead of flying. 
+   - Original issue number: 6505
+   - Opened: 00:08 13/03/2024
+   - Status: Closed
+
+### Please, provide a clear description what the bug is:
+When you press gossip of Alromion "Please guide me through Caverns of Time" instead of just mounting you on fly mount, it also snaps you into the ground and starts randomly spin you character and camera.
+
+### Steps to reproduce the behavior with as much detail as possible:
+- Stay infront of Alromion and press "Please guide me through Caverns of Time"
+- Press forward as soon as gossip closed. This will just stop you inplace, but if you hold your right mouse button, or move in other directions it will add to the shuttering effect.
+- You can increase effect if you continue to try to press movement in different directions.
+
+### WARNING!!! if you have epilepsy do not play this videos.
+
+### Steps to reproduce effect:
+- When i first encountered this, looked like so: *missing video*
+- Other person near me also got checked: *missing video*
+
+Please fix it asap, its like a warcrime agains humanity, kek.
+
+### IDs of affected creatures, items, quests or spells with a link to the relevant page:
+- NPC: Alormion
+
+### Expected behavior. Describe how it should work:
+Should just roam left and right on ground normally, and not preve *missing text*
+
