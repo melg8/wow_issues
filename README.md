@@ -736,3 +736,23 @@ Human racial Diplomacy should give +10% reputation bonus. But when you kill npcs
 
 ### Expected behavior. Describe how it should work:
 In current implementation +10% round up to +1 reputation from 5 base reputation gain. Easy fix - random gain of 5 or 6 reputation per kill, so in average it would give correct +10% reputation gain compared to other races. Not +20% how is it now.
+
+
+## Supercharged Chronoboon Displacer doesnt show buffs it captured
+   - Original issue number: 6502
+   - Opened: 19:08 12/03/2024
+   - Status: Open
+   - Tags:
+      - Bundled AddOn
+      - Custom Content Polish
+
+### Please, provide a clear description what the bug is:
+When mousover Supercharged Chronoboon Displacer you can't see buffs and their durations.
+
+### Steps to reproduce the behavior with as much detail as possible:
+- Get Supercharged Chronoboon Displacer with some buffs captured
+- Mouseover it
+- Observe tooltip like so: *missing screenshot*
+
+### Expected behavior. Describe how it should work:
+It should show captured buffs with timers like it was presented on site: *missing screenshot*
