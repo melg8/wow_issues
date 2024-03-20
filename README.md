@@ -477,5 +477,17 @@ This was tested on:
 - brave
 - google chrome
 - microsoft edge
-- tor browser to excl
+- tor browser to excl *missing text*
+
+## Engineering trainer teaches you both Apprentice and Journeyman ability at same time at relearn 
+   - Original issue number: 6467
+   - Opened: 00:27 09/03/2024
+   - Status: Closed
+
+### Please, provide a clear description what the bug is:
+Engineering trainer Nogg is out of his mind! When you try to learn from him secondary proffesion he teaches both Apprentice and Journeman skill into you instead of just Apprentice. It looks like this: *missing screenshot*.
+
+### Expected behavior. Describe how it should work:
+Should only learn Apprentice part.
+
 
