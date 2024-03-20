@@ -914,3 +914,13 @@ You cant mount there but with such massive area without anything in it its annoy
 ### Describe the Issue:
 To much of it drops, if you dont use special addon to auto need it, its whole separate work to need all the sand, while progressing this linear instance to the end.
 
+### Young goretusk hyperspawn
+   - Original issue number: 6588
+   - Opened: 13:26 17/03/2024
+   - Status: Closed
+   - Tags:
+      - NPC
+
+### Describe the Issue:
+Young goretusk near graveyard on Sentinel Hill 51.8 49.0 has hyperspawn. He spawns right after it was killed (in 10-15 seconds). Can be abused and farmed afk by clicker.
+
