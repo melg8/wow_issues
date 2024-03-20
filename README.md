@@ -156,3 +156,59 @@ You should charge players on top of tunnel - so if player is outside - he gets c
 
 
 
+## Alterac Valley hut backdoor jumping course
+   - Original issue number: 6356
+   - Opened: 12:59 25/02/2024
+   - Status: Closed
+
+### Learn your craft!
+
+I would like to address terrible state of alliance on AV. Only 4 of 10 paladins and 2 of 5 mages use this backdoor jump! We need to educate people on how to do better!
+The issue
+
+for quite some time ago but didnt have any outcome. Latest AV backdoor that needs fixing *missing screenshot*
+
+- This issue were brought up recently also in twow discord.
+
+- This issue were brought up multiple times in ingame bg chat while experiencing this unfair hut ambush.
+
+*missing screenshot*
+
+So this issue were noticed by players on forums, discord, ingame chats and now here on github. I'm suggesting dev team finally look into this matter.
+
+I want to notice that this fixes arent something terribly new to begin with. First of all suggested fixes were implemented in older av map before av rework although this map had other backdoor jumps issues. So rework fixed old backdoor jumps but introduced new one for horde side only.
+
+for alliance side. Now its time for horde side!
+
+### So how palas should do it tho?
+
+Here you go, full sequence, as I have promised! (Credit for video goes to Tendies)
+
+*missing link*
+https://github.com/slowtorta/turtlewow-bug-tracker/assets/16599015/8920bb05-8c86-457a-8cee-734fe66f8f5d
+
+### Whats wrong with it?
+
+when recalling will be not effective after they get hut flag.
+
+Also it opens drednaught tank classes ways to solo cap hut. They just run mounted whole route, and after that kill everything on flag - kiting elite and capping flag in the end.
+
+Because of this exploit on map 8 of 10 games finish into alliance winning just because horde base is open to be ambushed by any amount of alliance players without any slowing down factos. While horde will struggle to cross over bridge getting spammed by archers and other npcs.
+
+Because of this exploit alot of good pvp players just refuse to recall and defend base, cause they see how outnumbered they are each time.
+
+### Suggestions
+
+This would be main fix for issue, even if others not implemented, this would resolve part of problem.
+
+Increase height of collision box for fence *missing screenshot*
+
+### Hows hut doing?
+
+Mages go brrrrr backdoor *missing screenshot*
+
+Keep up! *missing screenshot*
+
+All of this screenshots were gathered in 20 minutes of single av. It repeats every game.
+
+
