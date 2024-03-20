@@ -715,3 +715,24 @@ In current implementation teleport to guild house takes only 5 seconds, while he
 ### Expected behavior. Describe how it should work: 
 I think they should both work the same way, with only difference being position on map where you are traveling to. In current implementation teleport to guild house can be abused by HC players, to escape danger faster, while HS users cant escape in 5 seconds, rendering people not in guilds more vulnerable.
 
+
+## Human racial diplomacy gives more than 10% bonus.
+   - Original issue number: 6501
+   - Opened: 14:36 12/03/2024
+   - Status: Open
+   - Tags:
+      - Core
+
+### Please, provide a clear description what the bug is:
+Human racial Diplomacy should give +10% reputation bonus. But when you kill npcs which give +5 reputation without bonus, you get +6 reputation each time which is 6/5 = 1.2 == 20% bonus.
+
+### Steps to reproduce the behavior with as much detail as possible:
+- As human go to Desolace and kill Maraudine Scout
+- Observe getting 6 reputation each time
+
+### IDs of affected creatures, items, quests or spells with a link to the relevant page:
+- NPC: Maraudine Scout
+- Spell: Diplomacy
+
+### Expected behavior. Describe how it should work:
+In current implementation +10% round up to +1 reputation from 5 base reputation gain. Easy fix - random gain of 5 or 6 reputation per kill, so in average it would give correct +10% reputation gain compared to other races. Not +20% how is it now.
