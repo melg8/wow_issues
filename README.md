@@ -567,3 +567,22 @@ No Jaedenar Adept were harmed while filming that video.
 ### Expected behavior. Describe how it should work:
 As per spell tooltip Jaedenar Adept should blink and appear in 20 yards from his initial position. Even after being distracted.
 
+## Jaedenar Adept doesn't blink out of stunlock
+   - Original issue number: 6488
+   - Opened: 18:44 11/03/2024
+   - Status: Closed
+
+### Please, provide a clear description what the bug is:
+When stunlocked Jaedenar Adept doesn't use blink ability to get out of it and just dies.
+
+### Steps to reproduce the behavior with as much detail as possible:
+- Apply any stunlock abilities towards Jaedenar Adept while being in melee range with it
+- Observe it not using blink to get out of stunlock and get distance. Example: *missing video*
+
+### IDs of affected creatures, items, quests or spells with a link to the relevant page:
+- NPC: Jaedenar Adept
+- Spell: Blink
+
+### Expected behavior. Describe how it should work:
+This iconic spell is used by mages to not only gain distance but also to get out of stuns. If Jaedenar Adept has it, it should use it to get out of stunlock. I discovered this bug whien i tried to use Jaedenar Adept as target dummy to test my macroses, but was dissapointed that it doesnt perform blink while stunned.
+
