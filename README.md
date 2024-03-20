@@ -490,4 +490,24 @@ Engineering trainer Nogg is out of his mind! When you try to learn from him seco
 ### Expected behavior. Describe how it should work:
 Should only learn Apprentice part.
 
+## The Murkfisher actually doesnt catches fish. 
+   - Original issue number: 6476
+   - Opened: 22:54 09/03/2024
+   - Status: Closed
+
+### Please, provide a clear description what the bug is: while it says literally in description that "Catches fish and foe alike."
+
+### Steps to reproduce the behavior with as much detail as possible:
+- Get The Murkfisher item
+- Try to fish with it
+- Observe message that you need fishing pole while you literally have one in your hands.
+
+### IDs of affected creatures, items, quests or spells with a link to the relevant page:
+- Item: The Murkfisher
+
+### Expected behavior. Describe how it should work:
+You should be able to fish with this item in your hands.
+
+
+
 
