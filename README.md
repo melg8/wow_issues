@@ -97,3 +97,19 @@ I would suggest one of two options:
 1. change mob to be pickpocketable
 2. change pickpocket table to be empty
 
+## Missing item bonus on site database 
+   - Original issue number: 6298
+   - Opened: 09:49 18/02/2024
+   - Status: Open
+
+### Please, provide a clear description what the bug is:
+For item Lynxstep Boots on site there is no additional stats bonuses displayed. But ingame it shows: "Equip: increases run speed by 3%" And it really is increasing running speed when you wear this boots.
+
+### Steps to reproduce the behavior with as much detail as possible:
+- Look at Lynxstep Boots tooltip ingame:
+- Compare it with Lynxstep Boots description on site:
+- Observe site version is missing part "Equip: increases run speed by 3%" and probably dont showup on page of all items providing +3 run speed increase.
+
+### IDs of affected creatures, items, quests or spells with a link to the relevant page:
+Item: Lynxstep Boots
+
