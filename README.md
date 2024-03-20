@@ -1315,3 +1315,61 @@ There is no armory for Tel'abim, you can't check people on Tel'abim.
 ### Describe the Issue:
 Caverns of time tavern doesnt have mailbox.
 
+
+## Infinite rift-lord can be skipped just by running around it 
+   - Original issue number: 6613
+   - Opened: 00:30 18/03/2024
+   - Status: Open
+
+### Describe the Issue: 
+Infinite rift-lord can be skipped just by running around it.
+Video: https://youtu.be/fwCmIklNxH4
+This is just silly, he is so nearsighted. Defender of time can be passed just by walking around it. he should have larger aggro radius.
+Second one same problem: https://youtu.be/HK-gVrR8ThE although my teammates managed to pull with standing too close to him, he also can be skipped now.
+
+## Bug tracker doesnt track your last chosen search condition
+   - Original issue number: 6614
+   - Opened: 00:35 18/03/2024
+   - Status: Open
+   
+### Describe the Issue:
+If you select to show only closed reports, then go to one of them, then click to return back, you will be show opened reports instead of closed one.
+
+## Trenton Lighthammer wrong position
+   - Original issue number: 6615
+   - Opened: 00:57 18/03/2024
+   - Status: Open
+   
+### Describe the Issue:
+Trenton Lighthammer has animation of him hitting anvil, but he is positioned in such way that he just hits air...
+Video: https://youtu.be/4l_4a0BOfwI
+He still back on it lul. Recorded just now: https://youtu.be/UGu7QLArA-w
+I noticed today that after restart he is turned towards forge, and doesnt do hitting animation. But 2 hours and 32 minutes after restart - he is back at doing animiation of hits, in wrong direction. I have suspicion that he activates it under some trigger (maybe after quest).
+
+## Wailing caverns mobs sometimes are unskinnable
+   - Original issue number: 6616
+   - Opened: 01:18 18/03/2024
+   - Status: Open
+
+### Describe the Issue:
+When doing wailing caverns in party even if you have mouse cursor icon that you can skin mob, its says "need to be looted first" error message, while all party members already looted mob, and we had 2 skinners in group. Happens around 20-25% of time.
+
+## Tel'abum server info shows only half of population
+   - Original issue number: 6618
+   - Opened: 01:57 18/03/2024
+   - Status: Open
+
+### Describe the Issue:
+In wow login screen and ingame when using .server info - it seems it shows only half of population. I conclude this because of: 1) who reports only your faction on server. So i see players in world : 192 (by .server info), then i join as horde and see around 180 players online, 50 displayed by who report, then i join as alliance, and see another 178 players online, 50 displayed. If my assumption about how who works right, then total should be around 352 players online and not 192. This is also closer result to Population Graph result on site: 384 total, 210 horde, 174 alliance.
+
+## Bad color scheme of issues status in bugtracker for visually impaired people #
+   - Original issue number: 6627
+   - Opened: 17:39 18/03/2024
+   - Status: Open
+
+### Describe the Issue:
+For visually impared people Its hard to distinguish between opened and closed issues when they are displayed in same list.
+Can use different icon for closed issues, like so https://thenounproject.com/browse/icons/term/issue-closed/ , and maybe more contrast and different color.
+Another variant would be https://thenounproject.com/browse/icons/term/arrow-caret-down/?qv=3933647 same circular form but with different inner part.
+
+
