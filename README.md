@@ -976,3 +976,12 @@ When your issue wasnt closed, but was answered by team member - like here happen
 I saw "Turtle wow staff" on messages by torta, so thats good, but something like that need to be shown on the list of all issues as well. And maybe be sortable by that criteria.
 
 You can make number of messages icon green if it has answers by team mebmer.
+
+
+## If users cant close their issues on tracker, they shouldnt have delete also
+   - Original issue number: 6639
+   - Opened: 23:19 18/03/2024
+   - Status: Closed
+
+### Describe the Issue:
+If users cant close their issues on tracker, they shouldnt have delete also. From security perspective now regular user can just nuke all of its issues.
