@@ -72,3 +72,28 @@ Jaguero Stalker ignores Flare spell. Probably there are other npcs which have sa
 
 ### Expected behavior. Describe how it should work:
 Npc should drop "faded" and become visible while affected by Flare.
+
+## "No pockets to pick" on mob with pickpocket table with quest item.
+   - Original issue number: 6277
+   - Opened: 11:42 15/02/2024
+   - Status: Closed
+
+### Please, provide a clear description what the bug is:
+In database on site there is pickpockeiting table for mob: Forest Ooze Even containing quest item: Encoded Fragment But when you try to pickpocket that creature you get error: "No pockets to pick".
+
+### Steps to reproduce the behavior with as much detail as possible:
+- Get in stealth as a rogue to Forest Ooze
+- Try pickpocket on it.
+- Observe error message: "No pockets to pick".
+
+### IDs of affected creatures, items, quests or spells with a link to the relevant page:
+NPC: Forest Ooze
+Item: Encoded Fragment
+Quest: Encoded Fragments
+Spell: Pickpocket
+
+### Expected behavior. Describe how it should work:
+I would suggest one of two options:
+1. change mob to be pickpocketable
+2. change pickpocket table to be empty
+
