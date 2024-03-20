@@ -961,3 +961,5 @@ As an example one of my issues that already should be closed: https://turtle-wow
 
 ### Describe the Issue:
 Voting system gives you way to wote 3 times just by fast clicking up wote. Probably can be even further abused if you change source code on client side. Server seems not to check for amount of wotes from 1 person on the issue.
+
+Also system doesnt check if you choose any particular character for his nick to be displayed. So you can wote just from newly created account.
