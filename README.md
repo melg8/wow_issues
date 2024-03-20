@@ -509,5 +509,29 @@ Should only learn Apprentice part.
 You should be able to fish with this item in your hands.
 
 
+## GetCurrentMapContinent return crazy big numbers while in instances
+   - Original issue number: 6486
+   - Opened: 16:33 11/03/2024
+   - Status: Open
+   - Tags:
+      - Core
 
+
+
+### Please, provide a clear description what the bug is: For example when you go inside of UBRS/LBRS GetCurrentMapContinent() return you value 17. BRD gives you 14.
+
+### Steps to reproduce the behavior with as much detail as possible:
+- Use macro (or just in chat): /script DEFAULT_CHAT_FRAME:AddMessage("Continent id: ".. GetCurrentMapContinent());
+- Go outside, touch some grass, use this macro, observe: 1 - for Kalimdor, 2 - Eastern Kingdoms as per usuall values
+- Go inside BRD, use this macro. observe: *missing screenshot*
+ value is 14.
+
+### Expected behavior. Describe how it should work:
+Some addons just refuse to work in instances, just to name a few:
+- MonkeySpeed - Adds a simple movable speedometer displaying speed as a percentage of run speed.
+- NotesUNeed - Manager that allows you to track Friends, Ignores, Guild members, Quests, Items and generic notes
+- Spy - Detects and alerts you to the presence of nearby enemy players.
+- All addons based on Astrolabe library (as Spy uses it for example).
+
+All of this addons are okay with having unknown ids of zones and can handle it, but they weren't ready that vanilla universe will be expanded to have at least 17 known continents. So when you load up in dungeon you just see constant ongoing spam of errors from addons, which is really annoying. Although i fixed them for myself, i think it would be better to have general fix on server side to not have this problem in the first place.
 
