@@ -353,4 +353,24 @@ Expected to have around zero leak value for such permanent addition to the game.
 ### Why its important
 I play on old pc in which any lags are more noticible than more modern pcs. When any of addons leaks (uses in unreasonable way alot of memory) it makes garbage collector of game to run more frequently removing memory which were allocated by addon and actually already not used. Each garbage collection for me represents like 1-4 seconds freeze of game, which can be quite annoying in pve/raiding situation and brutaly horrifying in pvp situations. Especially its concerning cause this happens no matter what. And i dont have way to disable this addon, while i dont need this functionallity at all.
 
+### Unlootable herbs in Silverpine Forest
+   - Original issue number: 6408
+   - Opened: 20:27 27/02/2024
+   - Status: Closed
+
+### Please, provide a clear description what the bug is:
+There is several herbs in silveprine forest that cant be looted due to zone change. They just dissapear when you try to get closer to them.
+
+### Steps to reproduce the behavior with as much detail as possible:
+- Do the same thing as shown in video.
+- *missing video*
+
+### IDs of affected creatures, items, quests or spells with a link to the relevant page:
+Object: Mageroyal
+Object: Silverleaf
+
+Related to #5312
+
+### Expected behavior. Describe how it should work:
+You should be able to close distance on them and pick them up.
 
