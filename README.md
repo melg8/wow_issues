@@ -669,5 +669,22 @@ When battleground queue procs, you can enter battleground from in combat state. 
 ### Expected behavior. Describe how it should work:
 Queue proc should not accept players entering battleground untill they are out of combat. Because of current mechanics people abuse it world pvp situations, like teleporting out of combat/rogue cc from middle of enemy city to avoid being killed. Or do one-shot attacks in gadgedzan (and other neutral cities) and then immediately accepting battlegound proc for avoiding being punished by guards.
 
+## /afk removes you from battleground instantly even in combat and under crowd control spell
+   - Original issue number: 6496
+   - Opened: 13:45 12/03/2024
+   - Status: Closed
 
+### Please, provide a clear description what the bug is:
+If you use /afk on battlegound you get afk state and get teleported out of battleground right away. Even if you are in middle of fight and under crowd control spells of other players.
+
+### Steps to reproduce the behavior with as much detail as possible:
+- Get into any battleground
+- Start fight with other player, get "In combat status"
+- type /afk in chat
+- Observe being removed from battleground while still in combat.
+
+### Expected behavior. Describe how it should work:
+Afk status should remove frome battleground only if you are not in combat. When you are in combat or under crowd control spells you should not be able to escape pvp by just typing /afk.
+
+In current situation players abuse such mechanics, for example they showup on AV, run for black lotus spawn, even if its on enemy side of map, and after they got it(or not) they simply /afk out of battleground, while under guards, enemy rogues stunlocks etc. Which is quite annoying for players who could get honorable kills but miss them just cause someone used /afk command. Also this mechanics sometiimes is abused by hardcore characters, which feel safe to join av and try to farm there, cause in case of any danger they can insta /afk away from bg while not being punished for that.
 
