@@ -898,3 +898,10 @@ You can avoid being kicked by auto system from av using dig rat.
 ### How to reproduce:
 Deploy dig rat somewhere on av. Use non damginc ability on it to begin combat. Observe removal of debuff from character. Also combat doesnt brake so you can just stand in combat with dig rat there for hours.
 
+## Caverns of time is unmountable area 
+   - Original issue number: 6562
+   - Opened: 11:04 16/03/2024
+   - Status: Closed
+
+### Describe the Issue:
+You cant mount there but with such massive area without anything in it its annoying to walk around when you need to go outside or to move from instance exit to instance entrance. I don't belive that suggestions on forum work so i post it here.
