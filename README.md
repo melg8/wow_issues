@@ -931,3 +931,11 @@ Young goretusk near graveyard on Sentinel Hill 51.8 49.0 has hyperspawn. He spaw
 
 ### Describe the Issue:
 Account management page doesnt show characters, just shows blank space.
+
+## Gms visual appearance doesn't attract attention 
+   - Original issue number: 6591
+   - Opened: 14:03 17/03/2024
+   - Status: Closed
+
+### Describe the Issue:
+When gm appears for personal intervention into some issue. Main and only way to visually define him/her as gm is their lvl higher than 60. Gm ticker will be usually eaten by addons representation. But in terms of their appearance they just appear as goblin/tauren etc in normal cloths. So people around them may not notce that this is not regular person but gm. I think gms should have some cusom form (like illusion, or at least custom cloths, or custom size of model, that will always tell anyone around them that this is gm at his work, and you should not mess around with it).
