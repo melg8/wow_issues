@@ -586,3 +586,25 @@ When stunlocked Jaedenar Adept doesn't use blink ability to get out of it and ju
 ### Expected behavior. Describe how it should work:
 This iconic spell is used by mages to not only gain distance but also to get out of stuns. If Jaedenar Adept has it, it should use it to get out of stunlock. I discovered this bug whien i tried to use Jaedenar Adept as target dummy to test my macroses, but was dissapointed that it doesnt perform blink while stunned.
 
+
+## Antnormi's stun doesn't respect free action potion. 
+   - Original issue number: 6490
+   - Opened: 22:30 11/03/2024
+   - Status: Open
+
+### Please, provide a clear description what the bug is:
+When fighting Antnormi his stun goest through even if you have free action potion used.
+
+### Steps to reproduce the behavior with as much detail as possible:
+- Start fight with Antnormi
+- Drink free action potion
+- Observe his stun still on you while you have free action potion on you;
+
+### IDs of affected creatures, items, quests or spells with a link to the relevant page:
+- Item: Free Action Potion
+- Spell: Cowering Roar
+
+### Expected behavior. Describe how it should work:
+It shouldn't stun you if you used free action potion. It doesn't have any interesting animations like npc from The Deadmines which swaps weapons on certain health, and you need to be stunned in order for him to finish animation. Here its just stun which says its stun, and not sleep or something else, but which ignores main anti-stun potion in game.
+
+
