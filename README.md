@@ -857,3 +857,12 @@ There is no way to search issue by same category on site.
    
 ### Describe the Issue:
 Title doesnt have check for its length
+
+## Can't mount on Immortal Champion's Drake in capitals 
+   - Original issue number: 6554
+   - Opened: 22:57 15/03/2024
+   - Status: Closed
+   
+### Describe the Issue: 
+It says can't mount here when you try to mount on Immortal Champion's Drake in city. While i think i saw regular drakes used in cities. Immortal Drakes should also be usable in capitals. Especially considering amount of their owners online nowdays are much less because of server pop rotation.
+
