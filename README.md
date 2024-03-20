@@ -212,3 +212,45 @@ Keep up! *missing screenshot*
 All of this screenshots were gathered in 20 minutes of single av. It repeats every game.
 
 
+## Alterac Valley hut advanced jumping course 
+   - Original issue number: 6362
+   - Opened: 22:58 25/02/2024
+   - Status: Open
+
+### More jumps to the god of jumps!
+
+Because #6356 issue were approved and i got alot of messages in discord and on github about other routes/jumps that were not included in previous issue i decieded to invest a little more time and capture all "issues" with current hut geodata and uploaded videos showing how this abuses can be implemented. They range from easy to abuse easy to fix, to more advanced jumps involving usage of potions.
+
+I don't want to overwork our great developers but it would really cool if this issues can be fixed as well. @ratkosrb hopes on you!
+
+First ill list them all as links with codenames for overview. Next ill link them with previews for more visual representation.
+
+### Fence jumps
+    Fence jump 1
+    Fence jump 2
+    Fence jump 3
+
+### Hut backdoor pull
+    Hut backdoor pull - ranges can pull elites through wall, and kite them away, also can hit players spawning on this gy.
+
+### Hole in a wall
+    Hole in a wall 1
+    Hole in a wall 2
+
+### Wall jumps
+    Wall jump 1
+    Wall jump 2
+
+### Safe falls
+    Safe fall to hut 1 - needs only safe fall buff of any kind to implement, fast route
+    need only safe fall buff of any kind to implement, long route
+
+Fence jump 1
+Fence jump 2
+Fence jump 3
+
+Hole in a wall 1
+Wall jump 1
+
+Safe fall to hut 1
+Safe fall to hut 2
