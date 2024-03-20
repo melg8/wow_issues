@@ -1021,3 +1021,57 @@ Describe the Issue: How to reproduce: Character the bug occurred on:
 
 ### Describe the Issue:
 Bug tracker looks badly formatted on mobile phones and tablets. It shows some of text out of border of issue box and some of icons just float around.
+
+
+# Still open issues
+
+## No way to fix title name on issue tracker
+   - Original issue number: 6533
+   - Opened: 00:00 15/03/2024
+   - Status: Open
+   - Tags:
+      - Website    
+
+### Describe the Issue:
+No way to fix title nime on issue tracker
+
+
+## Previews for uploaded images has wrong aspect ratio 
+   - Original issue number: 6534
+   - Opened: 00:02 15/03/2024
+   - Status: Open
+   - Tags:
+      - Website
+
+### Describe the Issue:
+Previews for uploaded images has wrong aspect ratio
+
+### How to reproduce:
+Upload image in 1920x1080 observe preview for it.
+
+## Links are not clickable
+   - Original issue number: 6535
+   - Opened: 00:06 15/03/2024
+   - Status: Open
+   - Tags:
+      - Website
+      
+### Describe the Issue:
+Links are not clickable.
+
+### How to reproduce:
+Click it: https://turtle-wow.org/bug-report?bugReportId=5105
+
+Okay maybe they are clickable after upload but not in the moment of writing something. Oh yea. If you are in Add comment section - they are not clickable.
+
+### Can get 413 content too large 
+   - Original issue number: 6538
+   - Opened: 00:22 15/03/2024
+   - Status: Open
+   - Tags:
+      - Website
+
+### Describe the Issue:
+Got this error:
+"Oops! An Error Occurred The server returned a "413 Content Too Large".
+Something is broken. Please let us know what you were doing when this error occurred. We will fix it as soon as possible. Sorry for any inconvenience caused." When trying to write long text as comment to other issue.
