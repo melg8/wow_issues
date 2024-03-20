@@ -1187,3 +1187,62 @@ Example how it looks here: https://ibb.co/3hGttFG
 ### Describe the Issue:
 When you use any select box in bug tracker (for example for server choose) - if you miss one pixel to the left of box itself - it just closes whole thing, and not put choice in. Also left part of select box are blending in with background making it hard to distinguish.
 
+### Waiting to ressurect while being alive on av
+   - Original issue number: 6579
+   - Opened: 18:28 16/03/2024
+   - Status: Open
+
+### Describe the Issue:
+You can get this buff while being alive. IDK how exactly, but thats the video with it happening: https://youtu.be/ovEW08y0aVM
+
+## Account management page doesn't show any services
+   - Original issue number: 6590
+   - Opened: 13:29 17/03/2024
+   - Status: Open
+
+### Describe the Issue:
+https://turtle-wow.org/profile#profile-overview - doesn't show services when you click on them, just blank space.
+
+## Battlegrounds give more people join than max cap #6594
+   - Original issue number: 6594
+   - Opened: 20:52 17/03/2024
+   - Status: Open
+
+### Describe the Issue:
+I consistently observe more people on bg than its max capacity, like av with 41-44 alliance players, arathi with 17 players on one side. warsong with 11 players on one side.
+
+## Report system has useless scroll bars everywhere
+   - Original issue number: 6595
+   - Opened: 20:53 17/03/2024
+   - Status: Open
+
+### Describe the Issue:
+Under each post and each reply you get vertical and horizontal scroll bars, without middle part. Even when message is 100% fit on screen.
+I linked image of what i'm talking about https://ibb.co/7JmVkJb
+For example this is how github shows answers under issue of different size. How you can see no such scrollbars present anywhere. https://ibb.co/C0T2fYv
+
+## Lighting the pyres quest, pyres diout too fast
+   - Original issue number: 6596
+   - Opened: 21:04 17/03/2024
+   - Status: Open
+ 
+### Describe the Issue:
+When you light pyre - it shuts down like in 10 seconds, so there is no point in running around the area, you can just stand on one place and light one pyre til l quest is complete. time should be at least minute or so.
+
+## Client freeze when minimizing game on windows 10
+   - Original issue number: 6597
+   - Opened: 21:10 17/03/2024
+   - Status: Open
+
+### Describe the Issue:
+When on windows 10 you press windows key and game gets minimized window, sometimes it freezes game completely. Only full game restart helps.
+
+## Hunters pet last hit damage showing over killed target after death #6598
+   - Original issue number: 6598
+   - Opened: 21:45 17/03/2024
+   - Status: Open
+
+### Describe the Issue:
+When you kill mob A with pet, and then start attack on mob B, sometimes you suddenly get attack value over mob A which long dead already.
+Video example: https://youtu.be/hCQP6XAZzqM
+Directly related to https://turtle-wow.org/bug-report?bugReportId=6458 But has different visual represenation so i wrote it as separate issue. If you watch closely logs you will observe display of pet damaging target after target death. This in turn will kick in visual damage representation kick in when new log messages appear - when you hit your next target. So main issue is 6458 and this is visual manifestation of that issue.
