@@ -1075,3 +1075,62 @@ Okay maybe they are clickable after upload but not in the moment of writing some
 Got this error:
 "Oops! An Error Occurred The server returned a "413 Content Too Large".
 Something is broken. Please let us know what you were doing when this error occurred. We will fix it as soon as possible. Sorry for any inconvenience caused." When trying to write long text as comment to other issue.
+
+
+## Tags on issues change color
+   - Original issue number: 6552
+   - Opened: 22:49 15/03/2024
+   - Status: Open
+   - Tags:
+      - Website
+
+### Describe the Issue:
+If you go into concrete issue then press button to return back to main issues board some of issues tags change color - for example Wont fix from red to blue. If you press on "opened reports" button tagc change color again to usual color scheme.
+
+## You can safespot in air using Alormion mount
+   - Original issue number: 6553
+   - Opened: 22:50 15/03/2024
+   - Status: Open
+
+### Describe the Issue:
+I tried to change issue text and press save button, but instead of saved changes on issue i got white screen with 500 error on it.
+
+## You can safespot in air using Alormion mount #6563
+   - Original issue number: 6563
+   - Opened: 11:09 16/03/2024
+   - Status: Open
+
+### How to reproduce:
+Mountup on Alormion, fly to needed location, get some distance from ground then 2 seconds before dismount press space bar - so it will start roar animation. After dismount observe you standing on air. You can mountup there, you can sit there. Probably you can safespot this way. Should dropdown in any case.
+
+## Illusion: Murlock is broken
+   - Original issue number: 6564
+   - Opened: 11:09 16/03/2024
+   - Status: Open
+
+### Describe the Issue:
+When you use other illusions, and press on your mount your illusion automatically cancels out and you just mount up in relgular form. Murlock illusion just errors out that "you are in shapeshift form". Which forces you to manually cancel illusion, which btw isnt instant but takes 3 more seconds to "cast". It should behave in same way as other illusions.
+
+
+## Fly mount can be used while in illusion:murlock
+   - Original issue number: 6565
+   - Opened: 11:17 16/03/2024
+   - Status: Open
+
+### Describe the Issue:
+You can use fly mount in tanaris while in murlock form. This is inconsistent with the idea that you cant use mounts while you in shapeshift murlock form.
+
+
+## Add stun before mounting on alormion
+   - Original issue number: 6568
+   - Opened: 11:47 16/03/2024
+   - Status: Open
+
+### Describe the Issue:
+Known issue that you get stuck into floor if you move while getting mounted on Alormion. Easy fix - add 2 seconds stun, like "your mind synchronizing in time with beast" or something. This will have some roleplay aspect and will fix issue when people should struggle for 45 seconds instead. 
+
+Seems it was added some extra Z to character when he is mounting ont Alormion. I tested this issue and could reproduce stuck bug only 1 out of 19 tries. So i think it can be closed as fixed by now.
+
+Hmm i double checked this, and found spot near his head on right side - which produces this bug. It can be related to terrain difference, if he spawns your mount on same Z as himself, and you stay slightly above that you will get under floor texture. while all of your body still above it. Maybe if we move him a little so he stands where all surrounding area is flat it can fix it once and for all.
+
+
