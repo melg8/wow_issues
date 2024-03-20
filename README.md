@@ -996,3 +996,19 @@ If users cant close their issues on tracker, they shouldnt have delete also. Fro
 Its hard to determine when your issue is closed with words "will be fixed in future(next update/next patch/next week) etc" - if it was already fixed, or its too early to recheck how and if your issue was fixed. "In progress" ticker would be nice to have.
 Then issue lifetime is like -opened by someone -> marked by twow team with tickers -> in progress -> closed/done or rejected/not planned/duplicated.
 So you can see on what people work now, and you can know that closed issue was done and you can go on live server and check that it was indeed fixed for good.
+
+
+## New description editor has all parts of issue temlpate at same line
+   - Original issue number: 6649
+   - Opened: 19:40 19/03/2024
+   - Status: Closed
+
+### Describe the Issue:
+New description editor has all parts of issue temlpate at same line, like so:
+
+Describe the Issue: How to reproduce: Character the bug occurred on:
+
+### It should be like:
+- Describe the Issue:
+- How to reproduce:
+- Character the bug occurred on:
