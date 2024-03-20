@@ -1278,3 +1278,40 @@ You shout, you vanish, you hit target, you stay in vanish.
 ### Describe the Issue:
 Raptor Punch doesnt show buff part in buff, and only shows text "you drunk" in debuf part, not showing - stamina debuff effect.
 https://database.turtle-wow.org/?item=5342
+
+
+## Pesterhide Snarler's Intimidating Growl ignores will of the forsaken
+   - Original issue number: 6603
+   - Opened: 22:34 17/03/2024
+   - Status: Open
+
+### Describe the Issue:
+If you use will of the forsaken before Pesterhide Snarler finished casting intimidating growl - you will still be affected by it, while by looks of it and by db info its just another fear effect.
+Video with it: https://youtu.be/--FOaIVJHk0
+https://database.turtle-wow.org/?npc=4249 https://database.turtle-wow.org/?spell=6576 - "Effect #1 (6) Apply Aura #7: Mod Fear "
+
+
+## Bug report system only allows to upload 1 image #6605
+   - Original issue number: 6605
+   - Opened: 23:15 17/03/2024
+   - Status: Open
+
+### Describe the Issue:
+While it says you can upload 2 images, but in reality you can upload only 1.
+
+## There is no armory for Tel'abim
+   - Original issue number: 6606
+   - Opened: 23:18 17/03/2024
+   - Status: Open
+
+### Describe the Issue:
+There is no armory for Tel'abim, you can't check people on Tel'abim.
+
+## Caverns of time tavern doesnt have mailbox
+   - Original issue number: 6609
+   - Opened: 00:24 18/03/2024
+   - Status: Open
+
+### Describe the Issue:
+Caverns of time tavern doesnt have mailbox.
+
