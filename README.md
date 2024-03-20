@@ -101,6 +101,8 @@ I would suggest one of two options:
    - Original issue number: 6298
    - Opened: 09:49 18/02/2024
    - Status: Open
+   - Tags:
+      - Website
 
 ### Please, provide a clear description what the bug is:
 For item Lynxstep Boots on site there is no additional stats bonuses displayed. But ingame it shows: "Equip: increases run speed by 3%" And it really is increasing running speed when you wear this boots.
